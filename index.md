@@ -1,12 +1,12 @@
 #  *Hello world!*
 
-My name is Ronald Alonso, and this is my home page. I'm a student at [CalState University of Fullerton](http://www.fullerton.edu/) and my major is Comp'-Engin'
+My name is Ronald Alonso, and this is my home page. I'm a student at [CalState University of Fullerton](http://www.fullerton.edu/) and I major in Computer Engineering
 
 My Github uername is ArguablyCoherent, my GitHub page can be found [***right here***](http://github.com/ArguablyCoherent)
 
 ## I take CPSC 120, here are 3 of my favorite labs from the course!
 
-1. Lab 1: 
+1. Lab 1:
 Add-libs my beloved! This lab had us using strings and character inputs/outputs to fill gaps in preloaded text,
 then print the completed version. This Lab is one of my top 3 favorites because it's the very first Lab we did, and my
 first time using writing in C++! It's the first time I got to put my studies to the test! Also, I just like add-libs.
