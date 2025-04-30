@@ -7,7 +7,7 @@ My Github uername is ArguablyCoherent, my GitHub page can be found [***right her
 ## I take CPSC 120, here are 3 of my favorite labs from the course!
 
 1. Lab 1:
-Add-libs my beloved! This lab had us using strings and character inputs/outputs to fill gaps in preloaded text,
+   Add-libs my beloved! This lab had us using strings and character inputs/outputs to fill gaps in preloaded text,
 then print the completed version. This Lab is one of my top 3 favorites because it's the very first Lab we did, and my
 first time using writing in C++! It's the first time I got to put my studies to the test! Also, I just like add-libs.
 They're a great way to pass the time.
